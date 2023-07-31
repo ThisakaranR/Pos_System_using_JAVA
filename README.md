@@ -1,6 +1,6 @@
 # Pos_System_using_JAVA
 Author: CT-2017-066 | Thisakaran Rasalingam
-Basically, this Point of sale application is used for any market sector.
+| - Basically, this Point of sale application is used for any market sector.
 
 # point-of-sale-system
 This Point of Sale System is aimed at small convenience stores which are still unfamiliar with the computerized system of running the business. This system is simple yet effective as the functions are easy to use for the users, that is, for the store owner or store manager and store cashiers.
